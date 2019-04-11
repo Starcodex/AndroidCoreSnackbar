@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidCoreSnackbar</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text_hint">custom text</string>
+    <string name="textview_label">insert any text above</string>
+    <string name="tap_label">Tap button for show Snackbar !</string>
+</resources>
